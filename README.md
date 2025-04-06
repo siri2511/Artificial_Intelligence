@@ -1,3 +1,3 @@
-# Artificial_Intelligence
+# Artificial Intelligence
 ## Machine Learning
 1. Linear Regression
